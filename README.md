@@ -1,6 +1,7 @@
 # ScrapBin
 
 ScrapBin is an online scrap selling website.
+
 Beside selling scarp, the users can buy our upcycled products and the companies can tie up with us.
 
 Front end technologies-
